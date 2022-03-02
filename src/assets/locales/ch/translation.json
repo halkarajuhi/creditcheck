@@ -1,0 +1,184 @@
+{
+    "select_language": "选择语言",
+    "hello_welcome_to_react": "您好，欢迎来到 React",
+    "this_is_an_example": "这是一个例子",
+    "please_enter_name": "请输入姓名",
+    "You_Download_20_Reports_in_this_month":"您在本月下载了 20 份报告",
+    "acceptable_format_JPG_PNG_only":"可接受的格式仅 JPG、PNG。",
+    "max_file_size_is_500_kb_and_min_size_70_kb":"最大文件大小为 500 kb，最小大小为 70 kb",
+    "personal_information":"个人信息",
+    "username":"用户名",
+    "email":"电子邮件",
+    "contact":"接触",
+    "address":"地址",
+    "save":"保存",
+    "update":"更新",
+    "current_password":"当前密码",
+    "update_password":"更新密码",
+    "change_password":"更改密码",
+    "subscription_types":"订阅类型",
+    "payment":"支付",
+    "due_date":"截止日期",
+    "key_personel":"主要人员",
+    "company_id":"公司编号" ,
+    "staff_id":"员工证",
+   "staff_name":"员工类型名称",
+   "Please_search_Company_name_first":"请先搜索公司名称",
+   "Close":"关闭",
+   "Save_Changes":"保存更改",
+   "Shareholder_information":"股东信息",
+    "Ratio":"比率",
+    "capital_actl":"资本行为",
+    "capitals":"首都",
+    "company_Name":"公司名",
+    "Investor_Name":"投资者姓名",
+    "Amount":"数量",
+    "Investor_Type":"投资者类型",
+    "business_change_records"	:"业务变更记录",
+    "id":"ID",
+    "Company_id":"公司编号",
+    "changeItem":"更改项",	 
+    "contentBefore":"内容之前",
+    "contentAfter":"内容之后",
+  "changeTime":	"更改时间",
+  "enterprise_basic_information":"企业基本信息",
+  "base":"根据",
+  "name":"名称" ,
+  "legalPersonID": "法律人ID",
+  "regNumber": "注册号",
+  "companyOrgType":"公司组织类型",
+  "Category":"类别",
+  "Region":"地区",
+  "area":"区域",
+  "RegLocation":"注册位置",
+  "EstiblishTime":"建立时间",
+  "fromTime": "从时间",
+  "toTime": "到时间",
+  "businessScope":"业务范围",
+  "approvedTime":"批准时间",
+  "regStatus":"注册状态",
+  "regCapital":"注册资本",
+  "actualCapital":"实际资本",
+  "orgNumber":"组织编号",
+  "orgApprovedInstitute":"组织认可的机构",
+  "listCode":"列表代码",
+  "property1":"财产1",
+  "property2":"财产2",
+  "property3":"财产3",
+  "property4":"财产4",
+  "phoneNumber":"电话号码",
+  "categoryCode":"类别代码",
+  "cate3 ":"类别3",
+  "cate2 ":"类别2",
+  "cate1":"类别1",
+  "regionCode ":"地区代码",
+  "province ":"省",
+  "city ":"城市",
+  "parentID":"父母ID",
+  "staff_List":"员工名单",
+"Foreign_investment":"外资",
+"investor_type":"投资者类型",
+"Base":"根据",
+"Legal_person_name":"法人名称",
+"Legal_person_type":"法人类型",
+"Estiblishc_time":"确定时间",
+"reg_status":"注册状态",
+"reg_capital":"注册资本",
+"Annual_report_details":"年报详情",
+"report_year":"报告年",
+"baseInfo":"基本信息",
+"credit_code":"信用代码",
+"reg_number":"注册号",
+"phone_number":"电话号码",
+"postcode":"邮政编码",
+"manage_state":"管理状态",
+"employee_num":"员工编号",
+"subscribe_amount":"认购金额",
+"subscribe_type":"订阅类型",
+"paid_amount":"已付金额",
+"paid_time":"付费时间",
+"paid_type":"付费类型" ,
+"Enterprise":"企业" ,
+"InvestorName":"投资者姓名",
+"RatioBefore":"之前的比率",
+"RatioAfter":"之后的比率",
+"ChangeTime":"更改时间" ,
+"Shareholding_change":"股权变动",
+"Obtain_a_taxpayer_identification":"获取纳税人身份证明",
+"legalPersonName":"合法人名",
+"legalPersonType":"法律人类型",
+"companyType":"公司类型",
+"regLocation":"注册位置",
+"estiblishTime":"建立时间",
+"regInstitute":"注册研究所",
+"ownershipStake":"所有权 股权",
+"SEARCHES":"搜索",
+"Head_Office":"总公司",
+"Branch_RELATED_SEARCHES":"分支相关搜索",
+"Basic_information_of_special":"特殊情况基本信息",
+"companyID" : "公司编号",
+"companyNum":"公司编号",
+"nameS":"姓名S",
+"nameCn":"名称Cn",
+"nameCnS":"名称CnS",
+"nameEn":"名称En",
+"companyOrgTypeS":"公司组织类型S",
+"regStatusS":"注册状态",
+"remarks":"评论",
+"remarksS":"备注S",
+"liquidationMode":"清算模式",
+"liquidationModeS":"清算模式",
+"mortgage":"抵押",
+"mortgageS":"抵押贷款",
+"importantItems":"重要物品",
+"importantItemsS":"重要物品",
+"Get_the_Previous_Name":"获取以前的名称",
+"historyNames":"历史名称",
+"Corporate_Contact":"公司联系方式",
+"report_lastest":"最新报告",
+"report_more":"报告更多",
+"Page_num":"页数",
+"page_size":"页面大小",
+"total":"全部的"
+
+ 
+
+ 
+
+
+
+                       
+                       
+                     
+               
+                
+
+
+
+
+                        
+                      
+                       
+                      
+                      
+                     
+                      
+                     
+                       
+                   
+
+
+                          
+
+                    
+                        
+
+                        
+                         
+                 
+                          
+                
+  
+   
+
+  }
